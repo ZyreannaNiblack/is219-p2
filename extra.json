@@ -1,0 +1,34 @@
+"images": [
+    {
+        "imgPath": "download (1).jpg",
+        "imgLocation": "Aruba",
+        "description": "This is the 1st image in the set",
+        "date": "01/01/2016"
+    },
+    {
+        "imgPath": "download (2).jpg",
+        "imgLocation": "Switzerland",
+        "description": "This is the 2nd image in the set",
+        "date": "02/01/2016"
+    },
+    {
+        "imgPath": "download.jpg",
+        "imgLocation": "Third image (index 2)",
+        "description": "This is the 3rd image in the set",
+        "date": "03/01/2016"
+    },
+{
+  "imgPath": "download (3).jpg",
+  "imgLocation": "jamaica",
+  "description": "This is the 4th image in the set",
+  "date": "04/01/2016"
+}
+]
+{
+    "imgPath": "download (3).jpg",
+    "imgLocation": "Fourth image (index 3)",
+    "description": "This is the 4th image in the set",
+    "date": "04/01/2016"
+} 
+
+
